@@ -1,6 +1,4 @@
-Here's the README in Markdown format:
 
-```markdown
 # Menu Report Generator
 
 ## Overview
@@ -70,6 +68,4 @@ After generating individual reports, the script combines them into a single summ
 
 - `generate_report(rest_abbr, id_list)`: Generates detailed reports for given restaurant abbreviations and store IDs. Saves reports and SQL queries to the `output/` directory.
 - `amalgamate_excel_reports(output_folder='output')`: Combines individual Excel reports into a single summary report. Deletes original files after amalgamation.
-```
 
-Feel free to adjust or add any additional details as needed!
